@@ -1,0 +1,14 @@
+{
+  "name": "plate_slate_basic_ui",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:mebobby2/plate_slate_basic_ui.git",
+  "author": "Bobby <bobby.lei@vodafone.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "express": "^4.17.1"
+  },
+  "scripts": {
+    "dev": "node ./"
+  }
+}
